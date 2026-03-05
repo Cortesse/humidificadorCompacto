@@ -1,0 +1,49 @@
+===================
+ESP32-C3 SUPER MINI
+===================
+
+MICROCONTROLADOR: ESP32-C3FH4X
+Alimentación: 3.3V
+
+-----------
+PERIFÉRICOS
+-----------
+GPIO3   -> ADC BATERÍA
+GPIO8   -> I2C SDA (OLED SSD1306)
+GPIO5   -> I2C SCL (OLED SSD1306)
+GPIO2   -> Entrada TTP223 (Sensor táctil)
+GPIO6   -> Control Humidificador (Salida digital)
+
+-----------------
+UART PROGRAMACIÓN
+-----------------
+
+GPIO21  -> UART TX (conectar a RX del programador)
+GPIO20  -> UART RX (conectar a TX del programador)
+
+----------------------------------
+PINES DE CONTROL PARA PROGRAMACIÓN
+----------------------------------
+
+EN      -> Reset (Pull-up 10k a 3.3V + pulsador a GND)
+GPIO9   -> BOOT (Pull-up 10k a 3.3V + pulsador a GND)
+
+------------
+ALIMENTACIÓN
+------------
+
+3V3     -> 3.3V regulados
+GND     -> Tierra común
+
+-----------------
+NOTAS IMPORTANTES
+-----------------
+
+- Todos los GPIO son 3.3V únicamente.
+- No aplicar 5V directo a ningún pin.
+- Colocar capacitores de desacople cerca del microcontrolador.
+- Mantener líneas I2C con pull-ups de 4.7k a 3.3V.
+- GPIO20 y GPIO21 deben quedar libres excepto durante programación.
+
+
+
