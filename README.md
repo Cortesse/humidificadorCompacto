@@ -1,4 +1,4 @@
-# Repositorio de Proyectos
+# Sistema Humidificador Compacto
 
 Este repositorio contiene archivos, código fuente y documentación relacionados con distintos proyectos de desarrollo y electrónica.
 
