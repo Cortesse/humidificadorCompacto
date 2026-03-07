@@ -2,5 +2,5 @@
 | ---- | ---------------------- | --------------- | ----------------------------------------------------------------- 
 | 1    | Microcontrolador       | ESP32-C3FH4     | https://jlcpcb.com/partdetail/EspressifSystems-ESP32C3FH4/C2858491      
 | 2    | IC Conversor dc-dc	    | MT3608          | https://jlcpcb.com/partdetail/XI_AN_AerosemiTech-MT3608/C84817 
-| 3    | IC Carga bateria    	  | TP4056-42-ESOP8 | https://jlcpcb.com/partdetail/17264-TP4056_42ESOP8/C16581
-| 4    | Display	            	| HS91L02W2C01	  | https://jlcpcb.com/partdetail/HS-HS91L02W2C01/C5248081
+| 3    | IC Carga bateria       | TP4056-42-ESOP8 | https://jlcpcb.com/partdetail/17264-TP4056_42ESOP8/C16581
+| 4    | Display                | HS91L02W2C01	  | https://jlcpcb.com/partdetail/HS-HS91L02W2C01/C5248081
