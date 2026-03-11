@@ -5,3 +5,5 @@
 | 3    | IC Carga batería	| TP4056-42-ESOP8	| https://jlcpcb.com/partdetail/17264-TP4056_42ESOP8/C16581
 | 4    | Display		| HS91L02W2C01		| https://jlcpcb.com/partdetail/HS-HS91L02W2C01/C5248081
 | 5    | Oscilador		| X322540MPB4SI		| https://jlcpcb.com/partdetail/YXC_CrystalOscillators-X322540MPB4SI/C9010
+| 6    | Conector Type C	| USB-TYPE-C-008	| https://jlcpcb.com/partdetail/DEALON-USB_TYPE_C008/C2927028
+| 7    | Regulador lineal	| AMS1117-3.3S		| https://jlcpcb.com/partdetail/323916-AMS1117_33S/C347256
